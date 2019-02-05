@@ -7,7 +7,7 @@ import org.junit.Test;
 public class AppTest {
 
     private String INPUT = "123456";
-    @Test
+    @Test 
     public void testLength() {
         // test
         Assert.assertEquals(INPUT,"123456");
