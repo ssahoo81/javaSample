@@ -11,6 +11,7 @@ public class AppTest {
     public void testLength() {
         // test
         // again
+        // Ok
         Assert.assertEquals(INPUT,"123456");
     }
 }
