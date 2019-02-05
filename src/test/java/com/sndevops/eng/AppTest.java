@@ -1,12 +1,12 @@
 package com.sndevops.eng;
 
-
+ 
 import org.junit.Assert;
 import org.junit.Test; 
 
 public class AppTest {
 
-    private String INPUT = "123 456";
+    private String INPUT = "123456";
     @Test 
     public void testLength() {
         // test
