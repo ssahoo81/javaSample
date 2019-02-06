@@ -4,10 +4,10 @@ import org.junit.Test;
 
 public class AppTest {
 
-    private String INPUT = "12345689";
+    private String INPUT = "1234568910";
     @Test 
     public void testLength() {
         // new commit
-        Assert.assertEquals(INPUT,"12345689");
+        Assert.assertEquals(INPUT,"1234568910");
     }
 }
