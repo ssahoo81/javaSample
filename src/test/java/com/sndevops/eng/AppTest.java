@@ -7,6 +7,6 @@ public class AppTest {
     private String INPUT = "123456";
     @Test 
     public void testLength() {
-        Assert.assertEquals(INPUT,"123456");
+        Assert.assertEquals(INPUT,"12345689");
     }
 }
