@@ -7,7 +7,7 @@ public class AppTest {
     private String INPUT = "11";
     @Test 
     public void testLength() { 
-        Assert.assertEquals(INPUT,"1 1");
+        Assert.assertEquals(INPUT,"1  1");
 
     }
 }
