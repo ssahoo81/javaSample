@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class AppTest {
 
-    private String INPUT = "1";
+    private String INPUT = "1 ";
     @Test 
     public void testLength() { 
         
