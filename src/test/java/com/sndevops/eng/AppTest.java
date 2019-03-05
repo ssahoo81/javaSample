@@ -4,9 +4,9 @@ import org.junit.Test;
 
 public class AppTest {
 // rrt   
-    private String INPUT = "134";
+    private String INPUT = "1341";
     @Test 
     public void testLength() { 
-        Assert.assertEquals(INPUT,"134"); 
+        Assert.assertEquals(INPUT,"1341"); 
     }
 }
