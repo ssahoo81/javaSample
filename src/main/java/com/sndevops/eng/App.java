@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        // This is a Test
+        // Test
         System.out.println( "Hello devops" );
     }
 }
