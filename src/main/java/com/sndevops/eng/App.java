@@ -20,6 +20,7 @@ public class App
         // This is a Test
         // and I'm out...
         // found a bug with that last commit
+        // fresh instance
         System.out.println( "Hello devops" );
     }
 }
