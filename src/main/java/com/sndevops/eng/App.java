@@ -21,6 +21,7 @@ public class App
         // and I'm out...
         // found a bug with that last commit
         // fresh instance
+        // second commit
         System.out.println( "Hello devops" );
     }
 }
