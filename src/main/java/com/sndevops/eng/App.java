@@ -18,9 +18,6 @@ public class App
         // This is a Test
         // This is a Test
         // This is a Test
-        // Tom was here again
-        // Guess who's back?
-        // back again
         System.out.println( "Hello devops" );
     }
 }
